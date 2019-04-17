@@ -1,4 +1,4 @@
-mydata<-read.csv("C:/Users/Ravinder/Desktop/Data Science/Linear Regression/car_sales.csv")
+mydata<-read.csv("C:/Users/Ravinder/Desktop/Linear Regression/car_sales.csv")
 View(mydata)
 str(mydata)
 
